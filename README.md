@@ -1,5 +1,5 @@
-# 🏥 HealthCare Solutions - Analytics
-**Projeto de Data Science para otimização do atendimento hospitalar com análise preditiva e visualização interativa.**
+# 🏥 Previsão de Custos Hospitalares com Machine Learning
+**Pipeline de Ciência de Dados e Dashboard Interativo em Streamlit para Análise e Otimização de Custos Médicos**
 
 ---
 
